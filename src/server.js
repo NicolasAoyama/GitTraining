@@ -19,4 +19,5 @@ server.use(router) //rotas na prota 3000
 
 server.listen(8000, () => {
   console.log("A API esta disponível no link http://localhost:8000")
+
 })
